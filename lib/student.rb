@@ -15,4 +15,5 @@ end
       name TEXT,
       grade INTEGER
       )
+     SQL
   end 
